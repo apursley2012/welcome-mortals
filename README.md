@@ -11,7 +11,7 @@ Date: June 6, 2026
 
 **A theatrical haunted-house portfolio with orange highlights, eerie copy, custom cursors, and surprise spider energy.**
 
-![Welcome, Mortals theme preview](images/screenshots/welcome-mortals-screenshot-01.png)
+![Welcome, Mortals theme preview](images/screenshots/welcome-mortals-screenshot-01.PNG)
 
 </div>
 
