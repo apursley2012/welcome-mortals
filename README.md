@@ -93,26 +93,6 @@ The theme should not be cleaned up into a completely different visual language u
 
 The repository includes 19 preview screenshots. Click any image to open the full-size file.
 
-- [Screenshot 01](images/screenshots/welcome-mortals-screenshot-01.PNG)
-- [Screenshot 02](images/screenshots/welcome-mortals-screenshot-02.PNG)
-- [Screenshot 03](images/screenshots/welcome-mortals-screenshot-03.PNG)
-- [Screenshot 04](images/screenshots/welcome-mortals-screenshot-04.PNG)
-- [Screenshot 05](images/screenshots/welcome-mortals-screenshot-05.PNG)
-- [Screenshot 06](images/screenshots/welcome-mortals-screenshot-06.PNG)
-- [Screenshot 07](images/screenshots/welcome-mortals-screenshot-07.PNG)
-- [Screenshot 08](images/screenshots/welcome-mortals-screenshot-08.PNG)
-- [Screenshot 09](images/screenshots/welcome-mortals-screenshot-09.PNG)
-- [Screenshot 10](images/screenshots/welcome-mortals-screenshot-10.PNG)
-- [Screenshot 11](images/screenshots/welcome-mortals-screenshot-11.PNG)
-- [Screenshot 12](images/screenshots/welcome-mortals-screenshot-12.PNG)
-- [Screenshot 13](images/screenshots/welcome-mortals-screenshot-13.PNG)
-- [Screenshot 14](images/screenshots/welcome-mortals-screenshot-14.PNG)
-- [Screenshot 15](images/screenshots/welcome-mortals-screenshot-15.PNG)
-- [Screenshot 16](images/screenshots/welcome-mortals-screenshot-16.PNG)
-- [Screenshot 17](images/screenshots/welcome-mortals-screenshot-17.PNG)
-- [Screenshot 18](images/screenshots/welcome-mortals-screenshot-18.PNG)
-- [Screenshot 19](images/screenshots/welcome-mortals-screenshot-19.PNG)
-
 #### Screenshot Gallery
 
 [![Welcome, Mortals screenshot 01](images/screenshots/welcome-mortals-screenshot-01.PNG)](images/screenshots/welcome-mortals-screenshot-01.PNG)
